@@ -20,6 +20,8 @@ I am planning to go through the following resources in order.
 6. [ ] [The Rustonomicon](https://doc.rust-lang.org/nomicon/) \- marked as incomplete
 
 7. [ ] [The Rust Reference](https://doc.rust-lang.org/reference/)
+  
+8. [ ] [The Embedded Rust Book](https://doc.rust-lang.org/embedded-book/)
 
 ## Indexes
 
