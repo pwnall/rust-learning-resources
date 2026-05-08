@@ -13,15 +13,20 @@ I am planning to go through the following resources in order.
   
 3. [ ] [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
   
-4. [ ] [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/) \- abandoned, only glossary is maintained
+4. [ ] [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/)
+       \- listed as abandoned, only glossary is maintained
   
 5. [ ] [The Little Book of Rust Macros](https://lukaswirth.dev/tlborm/)
   
-6. [ ] [The Rustonomicon](https://doc.rust-lang.org/nomicon/) \- marked as incomplete
-
-7. [ ] [The Rust Reference](https://doc.rust-lang.org/reference/)
+6. [ ] [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
+       \- marked as incomplete
   
-8. [ ] [The Embedded Rust Book](https://doc.rust-lang.org/embedded-book/)
+7. [ ] [Learn unsafe Rust](https://google.github.io/learn_unsafe_rust/)
+       \- currently archived
+
+8. [ ] [The Rust Reference](https://doc.rust-lang.org/reference/)
+  
+9. [ ] [The Embedded Rust Book](https://doc.rust-lang.org/embedded-book/)
 
 ## Indexes
 
