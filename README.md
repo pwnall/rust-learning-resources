@@ -12,6 +12,7 @@ I am planning to go through the following resources in order.
 2. [ ] [The Rust Style Guide](https://doc.rust-lang.org/style-guide/)
   
 3. [ ] [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
+       \- incomplete and outdated
   
 4. [ ] [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/)
        \- listed as abandoned, only glossary is maintained
