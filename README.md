@@ -10,27 +10,33 @@ I am planning to go through the following resources in order.
          \- maybe good for LLMs?
     
 2. [ ] [The Rust Style Guide](https://doc.rust-lang.org/style-guide/)
+
+3. [ ] [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
+
+4. [ ] [The Rustdoc book](https://doc.rust-lang.org/rustdoc/)
   
-3. [ ] [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
-       \- incomplete and outdated
-  
-4. [ ] [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/)
+5. [ ] [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/)
        \- listed as abandoned, only glossary is maintained
   
-5. [ ] [The Little Book of Rust Macros](https://lukaswirth.dev/tlborm/)
+6. [ ] [The Little Book of Rust Macros](https://lukaswirth.dev/tlborm/)
   
-6. [ ] [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
+7. [ ] [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
        \- marked as incomplete
   
-7. [ ] [Learn unsafe Rust](https://google.github.io/learn_unsafe_rust/)
+8. [ ] [Learn unsafe Rust](https://google.github.io/learn_unsafe_rust/)
        \- currently archived
 
-8. [ ] [The Rust Reference](https://doc.rust-lang.org/reference/)
+9. [ ] [The Rust Reference](https://doc.rust-lang.org/reference/)
   
-9. [ ] [The Embedded Rust Book](https://doc.rust-lang.org/embedded-book/)
+10. [ ] [The Embedded Rust Book](https://doc.rust-lang.org/embedded-book/)
 
 ## Indexes
 
 [The Rust Bookshelf](https://doc.rust-lang.org/) is a list of documentation
 resources owned by the official Rust maintainers. Most documentation there
 is built on top of [mdbook](https://github.com/rust-lang/mdBook).
+
+## Skipped or abandoned
+
+* [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
+  \- incomplete and outdated
