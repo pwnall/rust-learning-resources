@@ -11,7 +11,7 @@ I am planning to go through the following resources in order.
     
 2. [ ] [The Rust Style Guide](https://doc.rust-lang.org/style-guide/)
 
-3. [ ] [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
+3. [x] [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
 
 4. [ ] [The Rustdoc book](https://doc.rust-lang.org/rustdoc/)
   
