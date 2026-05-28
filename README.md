@@ -13,7 +13,7 @@ I am planning to go through the following resources in order.
 
 3. [x] [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
 
-4. [ ] [The Rustdoc book](https://doc.rust-lang.org/rustdoc/)
+4. [x] [The Rustdoc book](https://doc.rust-lang.org/rustdoc/)
   
 5. [ ] [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/)
        \- listed as abandoned, only glossary is maintained
