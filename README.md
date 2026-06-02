@@ -18,7 +18,7 @@ I am planning to go through the following resources in order.
 5. [ ] [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/)
        \- listed as abandoned, only glossary is maintained
   
-6. [ ] [The Little Book of Rust Macros](https://lukaswirth.dev/tlborm/)
+6. [x] [The Little Book of Rust Macros](https://lukaswirth.dev/tlborm/)
   
 7. [ ] [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
        \- marked as incomplete
