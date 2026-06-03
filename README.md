@@ -26,9 +26,12 @@ I am planning to go through the following resources in order.
 8. [ ] [Learn unsafe Rust](https://google.github.io/learn_unsafe_rust/)
        \- currently archived
 
-9. [ ] [The Rust Reference](https://doc.rust-lang.org/reference/)
+9. [ ] [Effective Rust](https://effective-rust.com/)
+
+10. [ ] [The Rust Reference](https://doc.rust-lang.org/reference/)
   
-10. [ ] [The Embedded Rust Book](https://doc.rust-lang.org/embedded-book/)
+11. [ ] [The Embedded Rust Book](https://doc.rust-lang.org/embedded-book/)
+
 
 ## Indexes
 
