@@ -14,23 +14,27 @@ I am planning to go through the following resources in order.
 3. [x] [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
 
 4. [x] [The Rustdoc book](https://doc.rust-lang.org/rustdoc/)
-  
-5. [ ] [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/)
+
+5. [ ] [The Clippy book](https://doc.rust-lang.org/stable/clippy/)
+
+6. [x] [The Little Book of Rust Macros](https://lukaswirth.dev/tlborm/)
+
+7. [ ] [The Cargo book](https://doc.rust-lang.org/cargo/)
+
+8. [ ] [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/)
        \- listed as abandoned, only glossary is maintained
   
-6. [x] [The Little Book of Rust Macros](https://lukaswirth.dev/tlborm/)
-  
-7. [ ] [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
+9. [ ] [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
        \- marked as incomplete
   
-8. [ ] [Learn unsafe Rust](https://google.github.io/learn_unsafe_rust/)
-       \- currently archived
+10. [ ] [Learn unsafe Rust](https://google.github.io/learn_unsafe_rust/)
+        \- currently archived
 
-9. [ ] [Effective Rust](https://effective-rust.com/)
+11. [ ] [Effective Rust](https://effective-rust.com/)
 
-10. [ ] [The Rust Reference](https://doc.rust-lang.org/reference/)
+12. [ ] [The Rust Reference](https://doc.rust-lang.org/reference/)
   
-11. [ ] [The Embedded Rust Book](https://doc.rust-lang.org/embedded-book/)
+13. [ ] [The Embedded Rust Book](https://doc.rust-lang.org/embedded-book/)
 
 
 ## Indexes
