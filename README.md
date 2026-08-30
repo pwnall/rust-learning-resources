@@ -27,19 +27,23 @@ The order below is my opinionated guess. My guess is getting more informed as I 
 9. [x] [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
        \- marked as incomplete
 
-10. [ ] [The Rust Style Guide](https://doc.rust-lang.org/style-guide/)
+10. [ ] [The Rust Performance book](https://nnethercote.github.io/perf-book/)
 
-11. [ ] [Learn unsafe Rust](https://google.github.io/learn_unsafe_rust/)
+11. [ ] [The Embedded Rust Book](https://doc.rust-lang.org/embedded-book/)
+
+12. [ ] [The Rust Fuzz book](https://rust-fuzz.github.io/book/)
+
+13. [ ] [The Rust Style Guide](https://doc.rust-lang.org/style-guide/)
+
+14. [ ] [Learn unsafe Rust](https://google.github.io/learn_unsafe_rust/)
         \- currently archived
 
-12. [ ] [The Embedded Rust Book](https://doc.rust-lang.org/embedded-book/)
+15. [ ] [Effective Rust](https://effective-rust.com/)
 
-13. [ ] [Effective Rust](https://effective-rust.com/)
-
-14. [ ] [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/)
+16. [ ] [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/)
        \- listed as abandoned, only glossary is maintained
 
-15. [ ] [The Rust Reference](https://doc.rust-lang.org/reference/)
+17. [ ] [The Rust Reference](https://doc.rust-lang.org/reference/)
   
 
 
