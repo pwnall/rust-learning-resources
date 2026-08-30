@@ -33,19 +33,19 @@ The order below is my opinionated guess. My guess is getting more informed as I 
 
 12. [ ] [The Rust Fuzz book](https://rust-fuzz.github.io/book/)
 
-13. [ ] [The Rust Style Guide](https://doc.rust-lang.org/style-guide/)
+13. [ ] [Effective Rust](https://effective-rust.com/)
+  
+14. [ ] [Learn Rust with Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 
-14. [ ] [Learn unsafe Rust](https://google.github.io/learn_unsafe_rust/)
+15. [ ] [The Rust Style Guide](https://doc.rust-lang.org/style-guide/)
+
+16. [ ] [Learn unsafe Rust](https://google.github.io/learn_unsafe_rust/)
         \- currently archived
 
-15. [ ] [Effective Rust](https://effective-rust.com/)
-
-16. [ ] [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/)
+17. [ ] [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/)
        \- listed as abandoned, only glossary is maintained
 
-17. [ ] [The Rust Reference](https://doc.rust-lang.org/reference/)
-  
-
+18. [ ] [The Rust Reference](https://doc.rust-lang.org/reference/)
 
 
 ## Indexes
