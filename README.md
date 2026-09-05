@@ -1,6 +1,8 @@
-# List of resources I'm using to learn Rust
+# Resources I'm using to learn Rust
 
-## Ordered list
+## Reading list
+
+### Draft chronological ordering
 
 The order below is my opinionated guess. My guess is getting more informed as I read more of the resources.
 
@@ -48,13 +50,17 @@ The order below is my opinionated guess. My guess is getting more informed as I 
 18. [ ] [The Rust Reference](https://doc.rust-lang.org/reference/)
 
 
-## Indexes
+### Indexes
 
 [The Rust Bookshelf](https://doc.rust-lang.org/) is a list of documentation
 resources owned by the official Rust maintainers. Most documentation there
 is built on top of [mdbook](https://github.com/rust-lang/mdBook).
 
-## Skipped or abandoned
+### Skipped or abandoned
 
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
   \- incomplete and outdated
+
+## Project materials
+
+* [Web Scraping Sandbox][https://toscrape.com/] - intended target for scraping projects
