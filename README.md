@@ -12,42 +12,43 @@ The order below is my opinionated guess. My guess is getting more informed as I 
          \- maybe good for LLMs?
 
 2. [ ] [The Command line book](https://rust-cli.github.io/book/index.html)
-      \- incomplete, still very useful for starting writing useful tools
+       \- incomplete, still very useful for starting writing useful tools
 
-3. [x] [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
+3. [ ] [Effective Rust](https://effective-rust.com/)
+       \- feels like rehashing more subtle points, which helps me learn
+  
+4. [x] [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
 
-4. [x] [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
+5. [x] [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
 
-5. [x] [The Rustdoc book](https://doc.rust-lang.org/rustdoc/)
+6. [x] [The Rustdoc book](https://doc.rust-lang.org/rustdoc/)
 
-6. [ ] [The Clippy book](https://doc.rust-lang.org/stable/clippy/)
+7. [ ] [The Clippy book](https://doc.rust-lang.org/stable/clippy/)
 
-7. [x] [The Little Book of Rust Macros](https://lukaswirth.dev/tlborm/)
+8. [x] [The Little Book of Rust Macros](https://lukaswirth.dev/tlborm/)
 
-8. [ ] [The Cargo book](https://doc.rust-lang.org/cargo/)
+9. [ ] [The Cargo book](https://doc.rust-lang.org/cargo/)
 
-9. [x] [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
-       \- marked as incomplete
+10. [x] [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
+        \- marked as incomplete
 
-10. [ ] [The Rust Performance book](https://nnethercote.github.io/perf-book/)
+11. [ ] [The Rust Performance book](https://nnethercote.github.io/perf-book/)
 
 11. [ ] [The Embedded Rust Book](https://doc.rust-lang.org/embedded-book/)
 
 12. [ ] [The Rust Fuzz book](https://rust-fuzz.github.io/book/)
 
-13. [ ] [Effective Rust](https://effective-rust.com/)
-  
-14. [ ] [Learn Rust with Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+15. [ ] [Learn Rust with Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 
-15. [ ] [The Rust Style Guide](https://doc.rust-lang.org/style-guide/)
+16. [ ] [The Rust Style Guide](https://doc.rust-lang.org/style-guide/)
 
-16. [ ] [Learn unsafe Rust](https://google.github.io/learn_unsafe_rust/)
+17. [ ] [Learn unsafe Rust](https://google.github.io/learn_unsafe_rust/)
         \- currently archived
 
-17. [ ] [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/)
+18. [ ] [Unsafe Code Guidelines Reference](https://rust-lang.github.io/unsafe-code-guidelines/)
        \- listed as abandoned, only glossary is maintained
 
-18. [ ] [The Rust Reference](https://doc.rust-lang.org/reference/)
+19. [ ] [The Rust Reference](https://doc.rust-lang.org/reference/)
 
 
 ### Indexes
